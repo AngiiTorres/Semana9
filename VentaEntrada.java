@@ -4,10 +4,6 @@
  */
 package pkg9;
 
-/**
- *
- * @author Torre
- */
 public class VentaEntrada {
 
     Cliente cliente;
